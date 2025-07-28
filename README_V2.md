@@ -1,4 +1,4 @@
-V2 is not an add on from V1 I totally scrapped V1 and started from scratch because V1 had way too bugs and the algorithm was not working at all so I decided to start over and add features slowly so I won't screw up my whole code.
+V2 is not an add-on from V1. I scrapped V1 and started from scratch because V1 had way too many bugs and the algorithm was not working at all, so I decided to start over and add features slowly so I won't screw up my whole code. This is also where I started to take this algorithm seriously.
 
 # 🎓 Student Outcome Predictor - Algorithm V2
 
